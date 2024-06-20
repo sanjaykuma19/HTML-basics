@@ -1,0 +1,59 @@
+body{
+    height: 100vh;
+  
+    margin: 0%;
+}
+.meanubar{
+    
+    padding: 0%;
+    margin:0px ;
+    width: 0%;
+    height:20px ;
+    float: left;
+    font-size:  36px; 
+    margin-top: 10vh;
+}
+.meanubar a{
+    color:rgb(5, 69, 246) ;
+    text-decoration:none ;
+    padding: 15px;
+    float: left;
+    text-align: center;
+    font: size 40px;
+    height: 180px;
+    width: 50px;
+    background-color: rgb(120, 120, 213);
+}
+.meanubar a:hover{
+    background-color: rgb(194, 196, 195);
+}
+
+.navigation{
+
+    padding:0px;
+       margin: 10px;
+    width: 200vh;
+    margin: 0;
+    align-items: center;
+    justify-content: space-between;
+    height: 50px;
+
+    background-color: cadetblue;
+
+
+}
+.navigation a{
+    
+    color:rgb(17, 18, 18);
+    position: relative;
+    text-decoration: none;
+    padding: 40px;
+  
+   
+    text-align: center;
+    font-size: 40px;
+}
+
+    .navigation a:hover{
+        background-color: aquamarine;
+    }

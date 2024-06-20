@@ -1,0 +1,59 @@
+.d{width: 87px;
+    height: 35px;
+    margin-top: 86px;
+    margin-left: 86px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+font-size: 30px;
+font-weight: 700;
+line-height: 35.16px;
+text-align: left;
+color: #3751FE;
+    
+}
+.a{width: 557px;
+    height: 108px;
+    margin-top: 109px;
+    margin-left: 86px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Open Sans;
+font-size: 36px;
+font-weight: 700;
+line-height: 49.03px;
+text-align: left;
+color: #3751FE;
+}
+
+.b{
+    width: 362px;
+height: 21px;
+margin-top: 20px;
+margin-left: 8px;
+gap: 0px;
+opacity: 0px;
+
+font-family: Roboto;
+font-size: 18px;
+font-weight: 400;
+line-height: 21.09px;
+text-align: left;
+color: #00000099;
+}
+.sec{
+    margin-top: -16px;
+    margin-left: 37px;
+    color: blueviolet;
+    font-size:  18px;
+
+}
+.rec{
+    width: 554px;
+    height: 74px;
+    margin-top: 0px;
+    margin-left: 86px;
+    gap: 0px;
+    opacity: 0px;
+    border: 1px solid black;
+    }

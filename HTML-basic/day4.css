@@ -1,0 +1,38 @@
+.hi{
+    height:40vh;
+    width: 40vh;
+    background-color: aquamarine;
+    border: 5px solid blueviolet;
+    margin-left: 50px;
+    margin-top: 50px;
+
+
+}
+.bye{
+    padding: 10vh;
+}
+.set{
+    height:40vh;
+    width: 40vh;
+    background-color: rgb(53, 32, 190);
+    border: 5px solid blueviolet;
+    margin-left: 600px;
+    margin-top: -255px;
+
+       }
+    .set1{
+        padding: 10vh;
+    }
+.third{
+    height:40vh;
+    width: 40vh;
+    background-color: rgb(53, 176, 15);
+    border: 5px solid blueviolet;
+    margin-left: 800px;
+    margin-top: -255px;
+   
+    
+}
+.third1{
+     padding: 10vh;
+}

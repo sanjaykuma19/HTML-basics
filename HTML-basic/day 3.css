@@ -1,0 +1,31 @@
+body{
+
+ background-repeat: no-repeat;
+ background-size: cover;
+ 
+}
+
+.hi{
+    background-color: aqua;
+    text-align: center;
+    font: size 60px; ;
+    font-family: cursive
+}
+.bye{
+    background-color: aqua;
+    text-align: center;
+    font: size 60px; ;
+    font-family: cursive
+}
+p{
+    color: blue;
+    text-decoration: dashed;
+    font-variant-ligatures: common-ligatures;
+    font-size: 60px;
+}
+
+.ul{
+    background-color: aquamarine;
+    width: 100px;
+    height: 100px;
+}

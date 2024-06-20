@@ -1,0 +1,11 @@
+.gmn{
+    height:100px ;
+    width:100px ;
+    background-color: brown;
+    transition: width 2s;
+    
+}
+.gmn:hover{
+    width:200px ;
+
+}
